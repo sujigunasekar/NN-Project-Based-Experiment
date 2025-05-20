@@ -124,3 +124,5 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/ca28e703-3292-4115-b01d-78c742bb84a2) <br>
 
+## Result
+Thus the program to Build a Multilayer Perceptron (MLP) to classify handwritten digits in python is excecuted successfully
